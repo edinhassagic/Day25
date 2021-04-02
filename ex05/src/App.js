@@ -4,7 +4,7 @@ import PostRequest from './PostRequest';
 function App() {
   return (
     <div className="App">
-      < PostRequest />
+      <PostRequest />
     </div>
   );
 }
